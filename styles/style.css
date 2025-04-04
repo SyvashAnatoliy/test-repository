@@ -3,5 +3,13 @@ body{
 }
 
 #title{
-  color: red;
+  color: #ff0000;
+}
+
+#text{
+  color: blue
+}
+
+#text:on hover{
+  font-family: cursive
 }
