@@ -7,9 +7,9 @@ body{
 }
 
 #text{
-  color: blue
+  color: blue;
 }
 
-#text:on hover{
-  font-family: cursive
+#text:onhover{
+  font-family: cursive;
 }
